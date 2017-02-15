@@ -1,0 +1,39 @@
+D:\Scratch\Bot Application\Bot Application\bin\Bot Application1.dll.config
+D:\Scratch\Bot Application\Bot Application\bin\Bot Application1.dll
+D:\Scratch\Bot Application\Bot Application\bin\Bot Application1.pdb
+D:\Scratch\Bot Application\Bot Application\bin\Autofac.dll
+D:\Scratch\Bot Application\Bot Application\bin\Chronic.dll
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.dll
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.dll
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Scratch\Bot Application\Bot Application\bin\Newtonsoft.Json.dll
+D:\Scratch\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Scratch\Bot Application\Bot Application\bin\System.Net.Http.Formatting.dll
+D:\Scratch\Bot Application\Bot Application\bin\System.Web.Http.dll
+D:\Scratch\Bot Application\Bot Application\bin\System.Web.Http.WebHost.dll
+D:\Scratch\Bot Application\Bot Application\bin\Autofac.xml
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.xml
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.xml
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.Rest.ClientRuntime.xml
+D:\Scratch\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Scratch\Bot Application\Bot Application\bin\Newtonsoft.Json.xml
+D:\Scratch\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\Scratch\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Scratch\Bot Application\Bot Application\bin\System.Net.Http.Formatting.xml
+D:\Scratch\Bot Application\Bot Application\bin\System.Web.Http.xml
+D:\Scratch\Bot Application\Bot Application\bin\System.Web.Http.WebHost.xml
+D:\Scratch\Bot Application\Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Scratch\Bot Application\Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Scratch\Bot Application\Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Scratch\Bot Application\Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Scratch\Bot Application\Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Scratch\Bot Application\Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Scratch\Bot Application\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Scratch\Bot Application\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Scratch\Bot Application\Bot Application\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
+D:\Scratch\Bot Application\Bot Application\obj\Debug\Bot Application1.dll
+D:\Scratch\Bot Application\Bot Application\obj\Debug\Bot Application1.pdb
